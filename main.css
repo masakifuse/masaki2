@@ -113,6 +113,7 @@ a:link, a:visited, a:hover, a:active {
 .sidemenu {
   float: right;
   width: 275px;
+  
 }
 .footer {
   width: 100%;
@@ -421,13 +422,9 @@ a:link, a:visited, a:hover, a:active {
 }
 .footer {
   width: 100%;
-  
   padding: 20px 0 30px;
   background: #2d3d54 url('../images/bg-footer.gif');
   color: #fff;
-  position: absolute;/*←絶対位置*/
-    bottom: 0; /*下に固定*/
-    text-align: center;
 }
 .horizontal-list {
   width: 970px;
